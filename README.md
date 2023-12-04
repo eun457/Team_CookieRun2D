@@ -43,7 +43,7 @@
 
 # 시연 영상
 
-- 영상 링크:
+- 영상 링크: https://www.youtube.com/watch?v=wNj_AiQ3rXE
 
 # 회고록
 
