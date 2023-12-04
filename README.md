@@ -1,4 +1,4 @@
-# 2D_CookieRun
+# Unity 2D Team Project_쿠키런 : 오븐브레이크
 <div align=center>
  
  ![image](https://github.com/eun457/2D_CookieRun/assets/140386045/70e89815-4b9a-4c86-a9cf-9e4290beaf6b)
