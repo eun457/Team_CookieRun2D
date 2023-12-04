@@ -34,6 +34,7 @@
   - '내쿠키함' 내 쿠키 scroll view 동적 구현
   - 쿠키 ID를 key로 활용하여 선택 쿠키 및 보유 쿠키 등 쿠키 관리
 ### :ballot_box_with_check: Sprite Atlas 활용
+* 다양한 Sprite의 쿠키가 필요한 게임 특성에 맞춰, 쿠키 Sprite를 Atlas로 관리하여 성능 최적화 도모
 ### :ballot_box_with_check: SoundManager를 활용한 전체 사운드 관리
 * Singleton으로 구현한 SoundManager로 적재적소에 필요한 BGM 및 효과음 출력
 ### :ballot_box_with_check: 파티클 시스템
