@@ -45,7 +45,10 @@
 
 # 게임 내 활용 디자인패턴
 ### :ballot_box_with_check: Singleton(싱글톤)
-### :ballot_box_with_check: StatePattern(상태패턴)
+- 
+### :ballot_box_with_check: State Pattern(상태패턴)
+- 상태 분기가 많은 게임 특성에 맞춰 State Pattern 활용
+  - player.cs, playerState.cs, playerStateMachine.cs를 직접 구현하여 Unity의 statemachineBehaviour의 흐름 이해
 
 </br>
 
