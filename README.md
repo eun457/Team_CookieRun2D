@@ -42,9 +42,6 @@
   - State Pattern(디자인패턴) 구현
     - '쿠키런 캐릭터'의 다양한 상태 전이(달리기, 점프, 슬라이드, 보너스 타임 등) 로직의 단순화
     - 쿠키별 상태 추가의 확장성 부여
-
-<img src = "https://github.com/eun457/2D_CookieRun/assets/140386045/ab2e4eb3-6d5a-4cc4-900e-8bee4670ef26.png" width ="200" height = "100"/>
-
 ![image](https://github.com/eun457/2D_CookieRun/assets/140386045/ab2e4eb3-6d5a-4cc4-900e-8bee4670ef26)
 
 </br>
