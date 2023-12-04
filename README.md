@@ -30,8 +30,7 @@
 
 # 핵심 기술 구현
 
-### :ballot_box_with_check: UI 동적 구현
-### :ballot_box_with_check: UGUI 최적화
+### :ballot_box_with_check: UGUI 동적 구현
 ### :ballot_box_with_check: SoundManager
 ### :ballot_box_with_check: 달빛술사쿠키 특수 능력 구현
 ### :ballot_box_with_check: 파티클 시스템
@@ -39,8 +38,8 @@
 </br>
 
 # 게임 내 활용 디자인패턴
-## :ballot_box_with_check: Singleton(싱글톤)
-## :ballot_box_with_check: StatePattern(상태패턴)
+### :ballot_box_with_check: Singleton(싱글톤)
+### :ballot_box_with_check: StatePattern(상태패턴)
 
 # 시연 영상
 
