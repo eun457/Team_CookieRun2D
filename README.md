@@ -1,6 +1,4 @@
 # [2D게임] <쿠키런:오븐브레이크> 모작
-(GIF)
-
 </br>
 
 ## :memo: 목차
@@ -34,6 +32,7 @@
 ### :ballot_box_with_check: SoundManager
 ### :ballot_box_with_check: 달빛술사쿠키 특수 능력 구현
 ### :ballot_box_with_check: 파티클 시스템
+### :ballot_box_with_check: Sprite Atlas 활용
 
 </br>
 
@@ -41,10 +40,20 @@
 ### :ballot_box_with_check: Singleton(싱글톤)
 ### :ballot_box_with_check: StatePattern(상태패턴)
 
-# 시연 영상
+</br>
 
+# 기술 설명 PPT
+- 링크:
+
+</br>
+
+# 시연 영상
 - 영상 링크: https://www.youtube.com/watch?v=wNj_AiQ3rXE
 
+</br>
+
 # 회고록
+
+</br>
 
 ## 참고자료
