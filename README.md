@@ -65,10 +65,5 @@
 
 </br>
 
-# 기술 설명 PPT
-- 링크:
-
-</br>
-
 # 시연 영상
 - 영상 링크: https://www.youtube.com/watch?v=wNj_AiQ3rXE
